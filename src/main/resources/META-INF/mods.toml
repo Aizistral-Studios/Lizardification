@@ -1,0 +1,27 @@
+license="WTFPL"
+modLoader="javafml"
+loaderVersion="[31,)"
+issueTrackerURL="https://github.com/Extegral/Lizardifcation/issues"
+[[mods]]
+modId="lizardification"
+version="1.0.0"
+displayName="Lizardifcation"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/lizardification"
+logoFile="LIZD_logo.png"
+credits="Jusey1z, the original creater of the mod"
+authors="Aizistral"
+description='''
+This mod adds a possibility to attach a couple custom lizard-like parts to your player model.
+'''
+[[dependencies.lizardification]]
+    modId="forge"
+    mandatory=true
+    versionRange="[33,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.lizardification]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.2,)"
+    ordering="NONE"
+    side="BOTH"
