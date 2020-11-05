@@ -40,7 +40,7 @@ public class Lizardification {
 	public static SimpleChannel packetInstance;
 
 	public static final String MODID = "lizardification";
-	public static final String VERSION = "1.0.0";
+	public static final String VERSION = "1.0.1";
 	public static final String RELEASE_TYPE = "Release";
 	public static final String NAME = "Lizardification";
 	public static final CommonProxy proxy = DistExecutor.safeRunForDist(() -> ClientProxy::new, () -> CommonProxy::new);

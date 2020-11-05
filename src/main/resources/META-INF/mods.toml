@@ -4,7 +4,7 @@ loaderVersion="[31,)"
 issueTrackerURL="https://github.com/Extegral/Lizardifcation/issues"
 [[mods]]
 modId="lizardification"
-version="1.0.0"
+version="1.0.1"
 displayName="Lizardifcation"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/lizardification"
 logoFile="LIZD_logo.png"

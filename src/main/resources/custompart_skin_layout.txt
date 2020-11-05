@@ -1,0 +1,13 @@
+Black areas represent parts reserved for your normal skin.
+
+For Snout/Nub:
+- Lime = Front
+- Yellow = Top
+- Cyan = Bottom (doesn't matter for Nub)
+- Purple = Sides
+
+For Tail:
+- Lime = Top side
+- Yellow = Tail Tips (one is hidden usually but I don't know which one)
+- Cyan = Underneath of the tail
+- Purple = Sides
